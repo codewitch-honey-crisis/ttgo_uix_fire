@@ -1,3 +1,4 @@
+// Adapted from https://codelibary.com/snippet/794/fire-effect-demonstration
 #define SHOW_FPS
 #include <Arduino.h>
 #include "driver/spi_master.h"
